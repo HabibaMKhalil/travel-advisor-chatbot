@@ -1,0 +1,11 @@
+{
+  "title": "France Travel Advisory",
+  "destination": "France",
+  "source": "US State Department",
+  "authority_level": "high",
+  "content_type": "safety_advisory",
+  "retrieval_priority": 1,
+  "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/france-travel-advisory.html",
+  "retrieved_at": "2025-12-31",
+  "content": "France is assessed as Level 2: Exercise Increased Caution. Terrorist groups continue plotting possible attacks in France. Violent incidents, including bombings, shootings, and vehicle attacks, have occurred. Pickpocketing and theft are common, particularly in crowded tourist areas, public transportation, and popular attractions. Travelers should remain vigilant in public places and follow instructions from local authorities."
+}

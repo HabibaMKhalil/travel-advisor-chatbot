@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+lxml
+sentence-transformers
+chromadb
+numpy
+tqdm
+openai
+streamlit
+scikit-learn
+rank-bm25

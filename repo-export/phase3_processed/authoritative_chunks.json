@@ -1,0 +1,74 @@
+[
+  {
+    "id": "auth_chunk_0",
+    "text": "France is assessed as Level 2: Exercise Increased Caution. Terrorist groups continue plotting possible attacks in France. Violent incidents, including bombings, shootings, and vehicle attacks, have occurred. Pickpocketing and theft are common, particularly in crowded tourist areas, public transportation, and popular attractions. Travelers should remain vigilant in public places and follow instructions from local authorities.",
+    "metadata": {
+      "destination": "France",
+      "source": "US State Department",
+      "content_type": "safety_advisory",
+      "authority_level": "high",
+      "retrieval_priority": 1,
+      "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/france-travel-advisory.html"
+    }
+  },
+  {
+    "id": "auth_chunk_1",
+    "text": "WHO recommends that travelers to France ensure routine vaccinations are up to date. No additional vaccinations are generally required for entry. Travelers should follow standard health precautions, including food and water safety and protection against seasonal illnesses.",
+    "metadata": {
+      "destination": "France",
+      "source": "World Health Organization (WHO)",
+      "content_type": "health_guidance",
+      "authority_level": "high",
+      "retrieval_priority": 1,
+      "url": "https://www.who.int/teams/global-malaria-programme/travel-advice"
+    }
+  },
+  {
+    "id": "auth_chunk_2",
+    "text": "Egypt is assessed as Level 3: Reconsider Travel due to terrorism. Terrorist groups continue to plot attacks in Egypt, particularly in the Sinai Peninsula. Although security has improved in major cities and tourist sites, attacks may occur without warning. Travelers should avoid demonstrations and large gatherings and follow local security guidance.",
+    "metadata": {
+      "destination": "Egypt",
+      "source": "US State Department",
+      "content_type": "safety_advisory",
+      "authority_level": "high",
+      "retrieval_priority": 1,
+      "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/egypt-travel-advisory.html"
+    }
+  },
+  {
+    "id": "auth_chunk_3",
+    "text": "WHO recommends travelers to Egypt ensure routine vaccinations are up to date. Vaccinations for hepatitis A, hepatitis B, and typhoid are commonly advised. Travelers should take precautions against foodborne illnesses and heat-related conditions.",
+    "metadata": {
+      "destination": "Egypt",
+      "source": "World Health Organization (WHO)",
+      "content_type": "health_guidance",
+      "authority_level": "high",
+      "retrieval_priority": 1,
+      "url": "https://www.who.int/teams/global-malaria-programme/travel-advice"
+    }
+  },
+  {
+    "id": "auth_chunk_4",
+    "text": "Japan is assessed as Level 1: Exercise Normal Precautions. Japan is generally safe for travelers. Crime rates are low, and violent crime is rare. Travelers should still take normal precautions and remain aware of their surroundings, particularly during natural disasters such as earthquakes and typhoons.",
+    "metadata": {
+      "destination": "Japan",
+      "source": "US State Department",
+      "content_type": "safety_advisory",
+      "authority_level": "high",
+      "retrieval_priority": 1,
+      "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/japan-travel-advisory.html"
+    }
+  },
+  {
+    "id": "auth_chunk_5",
+    "text": "WHO recommends travelers to Japan ensure routine immunizations are current. No specific additional vaccinations are required. Travelers should remain informed about seasonal influenza and natural disaster preparedness.",
+    "metadata": {
+      "destination": "Japan",
+      "source": "World Health Organization (WHO)",
+      "content_type": "health_guidance",
+      "authority_level": "high",
+      "retrieval_priority": 1,
+      "url": "https://www.who.int/teams/global-malaria-programme/travel-advice"
+    }
+  }
+]

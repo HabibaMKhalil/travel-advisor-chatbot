@@ -1,0 +1,44 @@
+[
+  {
+    "path": "authoritative_data/safety_us_state/france.json",
+    "destination": "France",
+    "source": "US State Department",
+    "content_type": "safety_advisory",
+    "authority_level": "high"
+  },
+  {
+    "path": "authoritative_data/health_who/france.json",
+    "destination": "France",
+    "source": "WHO",
+    "content_type": "health_guidance",
+    "authority_level": "high"
+  },
+  {
+    "path": "authoritative_data/safety_us_state/egypt.json",
+    "destination": "Egypt",
+    "source": "US State Department",
+    "content_type": "safety_advisory",
+    "authority_level": "high"
+  },
+  {
+    "path": "authoritative_data/health_who/egypt.json",
+    "destination": "Egypt",
+    "source": "WHO",
+    "content_type": "health_guidance",
+    "authority_level": "high"
+  },
+  {
+    "path": "authoritative_data/safety_us_state/japan.json",
+    "destination": "Japan",
+    "source": "US State Department",
+    "content_type": "safety_advisory",
+    "authority_level": "high"
+  },
+  {
+    "path": "authoritative_data/health_who/japan.json",
+    "destination": "Japan",
+    "source": "WHO",
+    "content_type": "health_guidance",
+    "authority_level": "high"
+  }
+]
