@@ -112,8 +112,8 @@ python -m phase4.main_app
 
 ## Folder Structure
 phase4/
-├── main_app.py
-├── streamlit_app.py
-├── rag_pipeline.py
-├── llm/
-│   └── local_llm.py
+├── main_app.py             
+├── streamlit_app.py                     
+├── rag_pipeline.py                           
+├── llm/                        
+│   └── local_llm.py                             
