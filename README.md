@@ -1,4 +1,4 @@
-# CSAI 468 - Natural Language Processing Final Project
+# Natural Language Processing
 
 ## Project Overview
 This project implements the data collection phase of a Travel Advisor Chatbot.
